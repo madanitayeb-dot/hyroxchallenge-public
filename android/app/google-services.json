@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56245991050",
+    "project_id": "dareme-app-eec44",
+    "storage_bucket": "dareme-app-eec44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56245991050:android:2847cb1954d942c0e99f73",
+        "android_client_info": {
+          "package_name": "com.dareme.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp9d-f0mcqnMhX2K0Z-IQyjBdaVPS4hDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
